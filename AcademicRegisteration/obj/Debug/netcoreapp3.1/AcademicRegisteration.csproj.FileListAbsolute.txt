@@ -1,0 +1,17 @@
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicRegisteration.deps.json
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicRegisteration.dll
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicRegisteration.pdb
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.csproj.AssemblyReference.cache
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.AssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.dll
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.pdb
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicOnlineLibrart.dll
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicOnlineLibrart.pdb
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.csproj.CopyComplete
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicRegisteration.exe
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicRegisteration.runtimeconfig.json
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\bin\Debug\netcoreapp3.1\AcademicRegisteration.runtimeconfig.dev.json
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicRegisteration\obj\Debug\netcoreapp3.1\AcademicRegisteration.genruntimeconfig.cache

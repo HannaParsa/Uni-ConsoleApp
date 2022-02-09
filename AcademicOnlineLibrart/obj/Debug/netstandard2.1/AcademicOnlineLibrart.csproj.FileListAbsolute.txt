@@ -1,0 +1,10 @@
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\bin\Debug\netstandard2.1\AcademicOnlineLibrart.deps.json
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\bin\Debug\netstandard2.1\AcademicOnlineLibrart.dll
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\bin\Debug\netstandard2.1\AcademicOnlineLibrart.pdb
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.csproj.AssemblyReference.cache
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.AssemblyInfoInputs.cache
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.AssemblyInfo.cs
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.csproj.CoreCompileInputs.cache
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.dll
+C:\Users\alahyarparsa\source\repos\AcademicRegisteration\AcademicOnlineLibrart\obj\Debug\netstandard2.1\AcademicOnlineLibrart.pdb
